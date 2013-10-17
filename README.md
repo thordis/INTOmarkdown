@@ -54,5 +54,5 @@ HandBrake; License: GNU GPLv2+ and proprietary license for the FAAC encoder[2]. 
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
 
-![Computer](http://i.imgur.com/bbLztcy.jpg).egege
+![Computer](http://i.imgur.com/bbLztcy.jpg)
 
