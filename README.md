@@ -11,6 +11,8 @@ Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið i
 
 We downloaded Ubuntu on a USB stick. We rebooted the computer to ubuntu but we did not install it on the computer so each time we rebooted again we had to do the whole thing again.
 
+![Computer](http://i.imgur.com/bbLztcy.jpg)
+
 ## 2. Uppsetning á vim && git
 
 Lýsið hvernig gekk að setja upp þessi tól.
@@ -53,6 +55,4 @@ HandBrake; License: GNU GPLv2+ and proprietary license for the FAAC encoder[2]. 
 ## 5. Unnið með Git (2. hluti)
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
-
-![Computer](http://i.imgur.com/bbLztcy.jpg)
 
